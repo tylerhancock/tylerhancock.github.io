@@ -21,7 +21,7 @@ title: "Tyler Hancock"
 	  </div>
 	</nav>
   <div class="content-container">
-  	<h1 class="roman">Hi, I’m Tyler, an associate director of experience design at FCB Health. I lead a multidisciplinary team to shape the direction of digital products for Pfizer, AstraZeneca, Roche, and more.</h1>
+  	<h1 class="roman">Hi, I’m Tyler, an Associate Director of Experience Design at FCB Health. I lead a multidisciplinary team to shape the direction of digital products for Pfizer, AstraZeneca, Roche, and more.</h1>
   	<p class="roman">As an early member of the experience design practice, I help determine our overall department strategy and vision. That meant successfully doubling our team size while working remotely for the last year.</p> 
 		<p class="roman">My past experiences allow me to lead projects throughout their lifecycle: from research and strategy, concepting, to user experience, visual design, prototyping, and of course, development.</p>
 		<p class="roman">This site was coded with &hearts; by me in ~4 hours. More to come soon!</p>
