@@ -1,33 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-  	<!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Hi, I’m Tyler. I’m a product design lead focused on implementing design systems and taking care of my growing team."/>
-    <title>Tyler Hancock – Designer</title>
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="../assets/images/favicon.ico" type="image/x-icon"/>
-    <!-- Stylesheets -->
-    <link rel="stylesheet" href="/assets/css/main.css">
-  </head>
-  <body>
-
-    <header class="headerContainer">
-      <div class="containerRow">
-        <div class="col-1">
-          <p class="Paragraph"><a href="http://localhost:4000">Tyler Hancock</a></p>
-        </div>
-        <div class="col-1">
-          <p class="Paragraph">Associate Director of Product</p>
-        </div>
-        <div class="col-1">
-          <p class="Paragraph">New York, NY</p>
-        </div>
-      </div>
-    </header>
-
-    <main class="pageContainer">
+I"8<main class="pageContainer">
 	<section id="pageIntro">
 		<div class="containerRow">
 			<div class="col-1">
@@ -174,33 +145,4 @@
 		</div>
 	</section><!-- misc projects -->
 </main>
-
-
-    <footer class="footerContainer">
-      <div class="containerRow">
-        <div class="col-1">
-          <p class="Paragraph"><a href="https://dribbble.com/tylerhancock" target="_blank">Dribbble &#8599;</a></p>
-        </div>
-        <div class="col-1">
-          <p class="Paragraph"><a href="https://www.instagram.com/tylermhancock/" target="_blank">Instagram &#8599;</a></p>
-        </div>
-        <div class="col-1">
-          <p class="Paragraph"><a href="mailto:tyler.hancock28@gmail.com">Email Me</a></p>
-        </div>
-      </div>
-      <div class="containerRow">
-        <div class="col-1">
-          <p class="Paragraph"><a href="https://www.linkedin.com/in/tylermhancock/" target="_blank">LinkedIn &#8599;</a></p>
-        </div>
-        <div class="col-1">
-          <p class="Paragraph"><a href="https://workingnotworking.com/55527-tyler" target="_blank">Working Not Working &#8599;</a></p>
-        </div>
-        <div class="col-1">
-          <p class="Paragraph"><a href="https://twitter.com/tylrhncck" target="_blank">Twitter &#8599;</a></p>
-        </div>
-      </div>
-    </footer>
-    <!-- Scripts -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-  </body>
-</html>
+:ET
