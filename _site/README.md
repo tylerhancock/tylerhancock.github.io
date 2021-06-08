@@ -1,1 +1,0 @@
-# tylerhancock.github.io
