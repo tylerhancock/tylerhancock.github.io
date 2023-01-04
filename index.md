@@ -1,19 +1,48 @@
 ---
 layout: default
-title: "Tyler Hancock – Designer"
+title: "Tyler Hancock – Product Design Leader"
 ---
 
 <main class="pageContainer">
 	<section id="pageIntro">
 		<div class="containerRow">
-			<div class="col-1">
+			<div class="col-3">
 				<p class="Header3 Tagline">Intro</p>
 			</div>
-			<div class="col-3 col-md-2">
-				<h1 class="Header1">I create value for companies by creating value for people.</h1>
+			<div class="col-3">
+				<h1 class="Header1">I’m Tyler, a product design leader with a passion for design systems, team building, interaction design, and typography. I currently work at Morgan & Morgan, where I’m unifying our client experience across various digital products.</h1>
 			</div>
 		</div>
 	</section><!-- intro -->
+	<section id="morganandmorgan">
+		<div class="containerRow stickyTop">
+			<div class="col-1">
+				<p class="Paragraph">Roll Financial</p>
+			</div>
+			<div class="col-1">
+				<p class="Paragraph">Brand &amp; Product Design</p>
+			</div>
+			<div class="col-1">
+				<p class="Paragraph">Personal &ndash; 2019</p>
+			</div>
+		</div>
+		<div class="containerRow">
+			<div class="col-3">
+				<div class="projectImage">
+					<img src="assets/images/roll-1.png" width="100%;">
+				</div>
+				<div class="projectImage">
+					<img src="assets/images/roll-2.png" width="100%;">
+				</div>
+				<div class="projectImage">
+					<img src="assets/images/roll-3.png" width="100%;">
+				</div>
+				<div class="projectImage">
+					<img src="assets/images/roll-4.png" width="100%;">
+				</div>
+			</div>
+		</div>
+	</section><!-- morganandmorgan -->
 	<section id="roll">
 		<div class="containerRow stickyTop">
 			<div class="col-1">
