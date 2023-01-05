@@ -1,0 +1,111 @@
+@font-face {
+  font-family: Inter;
+  src: url(../webfonts/Inter-VariableFont_slnt,wght.ttf) format("truetype");
+  font-style: normal;
+  font-weight: 1 999;
+}
+
+html {
+	font-family: 'Inter', sans-serif;
+}
+
+.contact {
+	background-color: #f6f6f6;
+	border-radius: 100px;
+	padding: 8px 16px;
+	text-decoration: none;
+	color: inherit;
+	transition: all .3s;
+}
+
+.contact:hover, .contact:focus {
+	background-color: #eeeeee;
+	color: inherit;
+	transition: all .3s;
+}
+
+#work a {
+	color: inherit;
+  text-decoration: none;
+}
+
+.display-1 {
+	font-size: calc(28px + 6 * ((100vw - 768px) / 680));
+	font-weight: 350 !important;
+	letter-spacing: -0.025rem;
+}
+
+@media only screen and (min-width: 768px) {
+	.display-1 {
+		font-size: calc(40px + 6 * ((100vw - 768px) / 680));
+	}
+}
+
+.project-info {
+	width: 100%;
+	background: #ffffff;
+	font-weight: 450 !important;
+}
+
+.project-info-title {
+	padding: 8px 0; /* to match project type */
+}
+
+.project-info-type {
+	margin: 0 0 0 8px;
+	border-radius: 100px;
+	border: 1px solid #e1e1e1;
+	padding: 8px 16px;
+}
+
+.img-fluid {
+	border-radius: 20px;
+}
+
+.img-description {
+	font-weight: 450 !important;
+}
+
+
+nav {
+	width: 376px;
+	margin: auto auto;
+	padding: 16px 0;
+	border-radius: 24px;
+	background-color: rgba(255,255,255,.2);
+	backdrop-filter: blur(10px);
+	-webkit-backdrop-filter: blur(10px);
+	box-shadow: 0 0 16px rgba(0,0,0,.2);
+}
+
+.menu-item {
+	height: 56px;
+	width: 56px;
+	border-radius: 16px;
+	box-shadow: 0 0 16px rgba(0,0,0,.2);
+	background-color: #ffffff; /* Used if the image is unavailable */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  transition: all .3s;
+}
+
+.menu-item#aboutmenu {
+	background-image: url("../images/about-menu.png"); /* The image used */
+}
+
+.menu-item#morganmenu {
+	background-image: url("../images/mm.png"); /* The image used */
+}
+
+.menu-item#ftpmenu {
+	background-image: url("../images/ftp.png"); /* The image used */
+}
+
+.menu-item#rollmenu {
+	background-image: url("../images/roll.png"); /* The image used */
+}
+
+.menu-item#tevamenu {
+	background-image: url("../images/teva.png"); /* The image used */
+}
