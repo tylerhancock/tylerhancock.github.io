@@ -59,13 +59,18 @@ html {
 }
 
 .img-fluid {
-	border-radius: 20px;
+	border-radius: 12px;
+}
+
+@media only screen and (min-width: 768px) {
+	.img-fluid {
+		border-radius: 16px;
+	}
 }
 
 .img-description {
 	font-weight: 450 !important;
 }
-
 
 nav {
 	width: 376px;
@@ -96,6 +101,10 @@ nav {
 
 .menu-item#morganmenu {
 	background-image: url("../images/mm.png"); /* The image used */
+}
+
+.menu-item#fullsteammenu {
+	background-image: url("../images/fullsteam.png"); /* The image used */
 }
 
 .menu-item#ftpmenu {
